@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Уханев иМаслов\StackConsole\StackConsole\bin\Debug\StackConsole.exe.config
+C:\Users\User\Desktop\Уханев иМаслов\StackConsole\StackConsole\bin\Debug\StackConsole.exe
+C:\Users\User\Desktop\Уханев иМаслов\StackConsole\StackConsole\bin\Debug\StackConsole.pdb
+C:\Users\User\Desktop\Уханев иМаслов\StackConsole\StackConsole\obj\Debug\StackConsole.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Уханев иМаслов\StackConsole\StackConsole\obj\Debug\StackConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Уханев иМаслов\StackConsole\StackConsole\obj\Debug\StackConsole.exe
+C:\Users\User\Desktop\Уханев иМаслов\StackConsole\StackConsole\obj\Debug\StackConsole.pdb
+C:\Users\User\Desktop\Уханев иМаслов\StackConsole\StackConsole\bin\Debug\RomanLib.dll
+C:\Users\User\Desktop\Уханев иМаслов\StackConsole\StackConsole\bin\Debug\RomanLib.pdb
+C:\Users\User\Desktop\Уханев иМаслов\StackConsole\StackConsole\obj\Debug\StackCon.514F9CA4.Up2Date
